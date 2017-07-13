@@ -2,61 +2,61 @@
 
 /*1. Taylor Swift
 
-Find the div with the id of "name1" and replace the content with the following:
-
-Tay-Tay*/
-
+Find the element with the id of "name1":
+	- Replace the content with the following string "Tay-Tay"*/
 
 /*2. DJ Khaled
 
-Find the div with the id of "position2" and replace the content with the following: Project Manager
-Change the background color to red*/
+Find the element with the id of "position2":
+	- Replace the content with the following string "Project Manager"
+	- Change the background color to red
+*/
 
 
 /*3. Piko Taro
 
-Find the div with the id of "alias3" and replace the content with the following:Concatenation
-Change the font size to 40*/
-
-
-
+Find the element with the id of "alias3":
+	- Replace the content with the following string "Concatenation"
+	- Change the font size to 40
+*/
 
 /*4. Prince
 
-Find the div with the class name of "profile" and replace the content with a verse from your favorite Prince song.
-Change the font-family to Sans Serif*/
-
-
+Find the element with the class name of "profile": 
+	- Replace the content with a verse from your favorite Prince song
+	- Change the styles of the font-family to Sans Serif
+*/
 
 /*5. Bruce Lee
 
-Find the div with the class name of "profile" and replace the content with a quote from the legend himself.
+Find the element with the class name of "profile":
+	- Replace the content with a quote from the legend himself
 */
 
 
 
 /*6. Samuel L Jackson
 
-Find the div with the class name of "alias" and replace the content with your favorite character that Sammy portrayed.*/
+Find the element with the class name of "alias": 
+	- Replace the content with your favorite character that Sammy portrayed
+*/
 
 
 
 /*7. Peter Griffin
 
-Create a div element and give it an id of "name7". Inside this div element, give it the contents of "Peter Griffin".
-
-Append this div element to the nameParent div*/
-
-
+Create a div element and give it an id of "name7":
+	- Inside this div element, give it the contents of "Peter Griffin"
+	- Append this div element with id "nameParent"
+*/
  
 /*8. Tim Duncan
 
-Create a div element give it an id of "alias8". Inside this div element, give it the contents of "Old Man Riverwalk".
-
-Append this div element to the aliasParent div.*/
-
-
+Create a div element give it an id of "alias8":
+	- Inside this div element, give it the contents of "Old Man Riverwalk"
+	- Append this div element with id "aliasParent"
+*/
 
 //Final Boss
-/*9. Create your own profile.*/
+/*9. Without modifying the HTML file, create your own profile.*/
 
