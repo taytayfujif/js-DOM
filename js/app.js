@@ -47,14 +47,14 @@ Find the element with the class name of "alias":
 
 Create a div element and give it an id of "name7":
 	- Inside this div element, give it the contents of "Peter Griffin"
-	- Append this div element with id "nameParent"
+	- Append this div element to the element with id "nameParent"
 */
  
 /*8. Tim Duncan
 
 Create a div element give it an id of "alias8":
 	- Inside this div element, give it the contents of "Old Man Riverwalk"
-	- Append this div element with id "aliasParent"
+	- Append this div element to the element with id "aliasParent"
 */
 
 //Final Boss
