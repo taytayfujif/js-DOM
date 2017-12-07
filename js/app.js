@@ -4,6 +4,7 @@
 
 Find the element with the id of "name1":
 	- Replace the content with the following string "Tay-Tay"*/
+	document.getElementById("name1").innerHTML= "Tay-Tay"
 
 /*2. DJ Khaled
 
@@ -11,7 +12,7 @@ Find the element with the id of "position2":
 	- Replace the content with the following string "Project Manager"
 	- Change the background color to red
 */
-
+document.getElementById("positio22").style.backgroundColor = 
 
 /*3. Piko Taro
 
